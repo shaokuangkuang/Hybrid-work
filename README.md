@@ -126,9 +126,9 @@
 
  5、实现至少有 3 个 tab 的主结构，并至少有一个二级页面，可用第二三次任务的页面；
 
-<img src="/src/images/3.jpg" alt="pic"/>
+<img src="/src/images/3.png" alt="pic"/>
 
-<img src="/src/images/4.jpg" alt="pic"/>
+<img src="/src/images/4.png" alt="pic"/>
 
  6、点击退出登录时跳转登录页，清掉本地存储的登录状态，且此时点击硬件返回键（连续点两次退出应用），不能返回上一页； 
 
